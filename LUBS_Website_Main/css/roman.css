@@ -1,0 +1,111 @@
+.enrollment_col_margin {
+  margin-top: 34px;
+  margin-left: 64px;
+}
+
+.js-c-c {
+  display: flex;
+  justify-content: center;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.content-xs {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.content-py-50px {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
+.px-20-prec {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.inputBgColor {
+  /* border-radius: 30px; */
+  /* border-width: 3px;
+    border-color: #364761; */
+  /* background-color: #f0f0f0; */
+}
+
+.text-justify {
+  text-align: justify !important;
+}
+
+.textblack {
+  color: black !important;
+}
+
+.colorBk {
+  color: black !important;
+}
+
+.content-r {
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+
+.p-4px {
+  padding: 4px;
+}
+
+.pb-0 {
+  padding-bottom: 0px !important;
+}
+
+@media screen and (max-width: 768px) {
+  .js-c-c {
+    display: inline-block;
+    justify-content: center;
+  }
+}
+
+@media screen and (min-width: 414px) {
+  .pMargin {
+    margin-top: 14px;
+  }
+
+  .btnSubmit {
+    margin-bottom: 24px;
+    margin-left: 38%;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .pMargin {
+    margin-top: 14px;
+  }
+
+  .btnSubmit {
+    margin-bottom: 24px;
+    margin-left: 38%;
+  }
+}
+
+@media screen and (device-width: 768px) {
+  .footerImgiPadSize {
+    width: 85px !important;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .imgMar {
+    margin-top: 30px;
+  }
+
+  .pMargin {
+    margin-top: 0px;
+  }
+
+  .btnSubmit {
+    margin-bottom: 24px;
+    margin-left: 38%;
+  }
+
+  .jointSchool {
+    padding: 0px;
+  }
+}
